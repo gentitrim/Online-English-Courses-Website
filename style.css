@@ -1,0 +1,25 @@
+/* slide dhe slideimg per stilim te crousel */
+.slide {
+    height: 700px;
+}
+
+.slideimg {
+    height: 100%;
+    object-fit: cover;
+}
+
+/* css per stilimin e alertit per butonin subscribe */
+.toast-error{
+    background-color: red;
+    color: white;
+}
+.toast-success{
+    background-color: green;
+    color: white;
+}
+
+/* Stilizim per headin e card te perdorura ne home dhe contact us */
+.cardhead {
+    background-color: #9cdbc8;
+    color:white;
+}
